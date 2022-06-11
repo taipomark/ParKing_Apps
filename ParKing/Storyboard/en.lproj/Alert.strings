@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "Alert"; ObjectID = "W8P-cA-Q4z"; */
+"W8P-cA-Q4z.title" = "Alert";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "fNP-sk-Xh5"; */
+"fNP-sk-Xh5.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "nYG-QB-7OH"; */
+"nYG-QB-7OH.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "  Reset"; ObjectID = "qDc-hl-h2d"; */
+"qDc-hl-h2d.configuration.title" = "  Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qDc-hl-h2d"; */
+"qDc-hl-h2d.normalTitle" = "Button";

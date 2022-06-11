@@ -1,0 +1,45 @@
+
+/* Class = "UINavigationItem"; title = "Parking"; ObjectID = "5bw-t3-gFp"; */
+"5bw-t3-gFp.title" = "泊車";
+
+/* Class = "UINavigationItem"; title = "Parking List"; ObjectID = "6za-fb-J7w"; */
+"6za-fb-J7w.title" = "泊車場名單";
+
+/* Class = "UILabel"; text = "District"; ObjectID = "8iT-cZ-iHC"; */
+"8iT-cZ-iHC.text" = "地區";
+
+/* Class = "UILabel"; text = "Vancancy"; ObjectID = "HAb-lu-s1e"; */
+"HAb-lu-s1e.text" = "空位";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Khc-UJ-a6i"; */
+"Khc-UJ-a6i.text" = "名稱";
+
+/* Class = "UIButton"; configuration.title = "   Nav"; ObjectID = "QFR-nM-0zN"; */
+"QFR-nM-0zN.configuration.title" = "   導航";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QFR-nM-0zN"; */
+"QFR-nM-0zN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "Upk-0h-Hof"; */
+"Upk-0h-Hof.text" = "距離";
+
+/* Class = "UIButton"; configuration.title = "  Reset"; ObjectID = "fFD-n5-ov0"; */
+"fFD-n5-ov0.configuration.title" = "  重設";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fFD-n5-ov0"; */
+"fFD-n5-ov0.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gt1-VC-xnS"; */
+"gt1-VC-xnS.title" = "Item";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "jRX-Fn-rcm"; */
+"jRX-Fn-rcm.text" = "車程";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "pGe-bG-5qo"; */
+"pGe-bG-5qo.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "  List"; ObjectID = "zyS-gh-Cqc"; */
+"zyS-gh-Cqc.configuration.title" = "  名單";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zyS-gh-Cqc"; */
+"zyS-gh-Cqc.normalTitle" = "Button";

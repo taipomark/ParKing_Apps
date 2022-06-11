@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "I3Y-uf-mlV"; */
+"I3Y-uf-mlV.text" = "Address";
+
+/* Class = "UINavigationItem"; title = "Report"; ObjectID = "IjF-kk-NwS"; */
+"IjF-kk-NwS.title" = "Report";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "aK9-qS-M9Q"; */
+"aK9-qS-M9Q.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Current Location"; ObjectID = "ipJ-uc-pbM"; */
+"ipJ-uc-pbM.configuration.title" = "Current Location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ipJ-uc-pbM"; */
+"ipJ-uc-pbM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "nMa-hG-BO2"; */
+"nMa-hG-BO2.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nMa-hG-BO2"; */
+"nMa-hG-BO2.normalTitle" = "Button";

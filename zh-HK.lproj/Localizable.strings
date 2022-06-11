@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  ParKing
+
+  Created by Mark Lai on 22/5/2022.
+  
+*/
+
+//Setting
+"Submit" = "提交";
+"Cancel" = "取消";
+"ForgetPassword" = "忘記密碼?";
+"LoginError" = "登入錯誤";
+"ResetError" = "重設密碼錯誤";
+"ResetOK" = "重設密碼";
+"ResetOKDesc" = "重設密碼成功";
+"BothNotBlank" = "輸入欄不能為空";
+"ConfirmEmail" = "尚未確認電郵，因此我們已發送電郵給您，請點擊電郵內連結確認。如未能收到，請按重新發送。";
+"ResendEmail" = "重新發送電郵";
+"InputError" = "輸入錯誤";
+"ProvideEmail" = "請提供重設密碼用電郵";
+"ResetFollow" = "密碼重設";
+"ResetError" = "密碼重設錯誤";
+"ResetEmail" = "我們已發送密碼重設電郵，請檢查及根據指示重設。";
+"RegisterError" = "登記錯誤";
+"RegisterNotProvide" = "請確保用戶名稱，電郵及密碼輸入正確。";
+"PasswordError" = "密碼錯誤";
+"PasswordNotSame" = "請確保密碼及重新輸入密碼一致";
+"EmailVerification" = "電郵確認";
+"VerificationSend" = "已發送確認電郵，請根據指示確認。";
+"LogoutError" = "登出錯誤";
+
+//Parking
+"TapShow" = "點擊顯示路線";
+"Distance" = "距離";
+"KM" = "公里";
+"Duration" = "車程";
+"Minutes" = "分鐘";
+"VacancyNA" = "空位: 不詳";
+"VacancyAvailable" = "空位: 有位";
+"Vacancy" = "空位:";
+"VacancyOK" = "空位: 有位";
+"All" = "全港";
+"Islands" = "離島區";
+"Kwai Tsing" = "葵青區";
+"North" = "北區";
+"Sai Kung" = "西貢區";
+"Sha Tin" = "沙田區";
+"Tai Po" = "大埔區";
+"Tsuen Wan" = "荃灣區";
+"Tuen Mun" = "屯門區";
+"Yuen Long" = "元朗區";
+"Kowloon City" = "九龍城區";
+"Kwun Tong" = "觀塘區";
+"Sham Shui Po" = "深水埗區";
+"Wong Tai Sin" = "黃大仙區";
+"Yau Tsim Mong" = "油尖旺區";
+"Central and Western" = "中西區";
+"Eastern" = "東區";
+"Southern" = "南區";
+"Wan Chai" = "灣仔區";
+"UnableGPS" = "定位問題";
+"Unable" = "尚未能定位，請稍候片刻。";
+
+//Alert
+"ReportLocation" = "報告危險位置";
+"ReportAlert" = "報告危險位置";
+"ReportSuccess" = "報告成功";
+"By:" = "報告人:";
+"Time:" = "時間:";
+"Radius" = "危險方圓500米";
+
+//Main
+"Parking" = "泊車";
+"Alert" = "警示";
+"Report" = "報告";
+"AlertLabel" = " 1.) 地圖顯示當日危險位置。 \n 2.) 點擊顯示危險信息。";
+"ParkingLabel" = " 1.) 地圖顯示全港所有停車場位置。\n2.) 點擊顯示停車場信息。 \n3.) 點擊停車場信息顯示路線。 \n4.) 點擊名單按鈕顯示列表。";
+"ReportLabel" = "1.) 地圖顯示您的位置。 \n2.) 點擊提交按鈕。 \n3.) 點擊地圖其他位置報告。";
+"Email:" = "電郵:";
+"Setting" = "設定";
+"About" = "關於";
+"Signout" = "登出";

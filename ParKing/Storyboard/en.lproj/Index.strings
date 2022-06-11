@@ -1,0 +1,129 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "9BZ-ye-YYD"; */
+"9BZ-ye-YYD.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "9vs-ua-lbu"; */
+"9vs-ua-lbu.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9vs-ua-lbu"; */
+"9vs-ua-lbu.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login with Email"; ObjectID = "BbO-Ca-cR6"; */
+"BbO-Ca-cR6.configuration.title" = "Login with Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BbO-Ca-cR6"; */
+"BbO-Ca-cR6.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "Bpe-ik-kfA"; */
+"Bpe-ik-kfA.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bpe-ik-kfA"; */
+"Bpe-ik-kfA.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "E5a-Yc-4n7"; */
+"E5a-Yc-4n7.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "EIW-ok-gUn"; */
+"EIW-ok-gUn.placeholder" = "Email";
+
+/* Class = "UINavigationItem"; title = "Reset Password"; ObjectID = "EkN-eR-wRd"; */
+"EkN-eR-wRd.title" = "Reset Password";
+
+/* Class = "UIButton"; configuration.title = "   Register"; ObjectID = "Eqf-vI-Kca"; */
+"Eqf-vI-Kca.configuration.title" = "   Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Eqf-vI-Kca"; */
+"Eqf-vI-Kca.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Parking"; ObjectID = "GKh-U7-uqh"; */
+"GKh-U7-uqh.text" = "Parking";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "IG6-0f-eLY"; */
+"IG6-0f-eLY.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IG6-0f-eLY"; */
+"IG6-0f-eLY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ParKing"; ObjectID = "IJf-ml-9Gi"; */
+"IJf-ml-9Gi.text" = "ParKing";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "IX0-7r-afD"; */
+"IX0-7r-afD.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IX0-7r-afD"; */
+"IX0-7r-afD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "KF2-AD-36g"; */
+"KF2-AD-36g.text" = "Report";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KOg-ge-6ta"; */
+"KOg-ge-6ta.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Forget Password?"; ObjectID = "QN0-Fs-1W2"; */
+"QN0-Fs-1W2.configuration.title" = "Forget Password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QN0-Fs-1W2"; */
+"QN0-Fs-1W2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Alert Title"; ObjectID = "RQE-FS-fsu"; */
+"RQE-FS-fsu.text" = "Alert Title";
+
+/* Class = "UIButton"; configuration.title = "   Login with Google"; ObjectID = "XSd-Ul-zH1"; */
+"XSd-Ul-zH1.configuration.title" = "   Login with Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XSd-Ul-zH1"; */
+"XSd-Ul-zH1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "bgU-rS-KPT"; */
+"bgU-rS-KPT.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bgU-rS-KPT"; */
+"bgU-rS-KPT.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "c32-64-0b4"; */
+"c32-64-0b4.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c32-64-0b4"; */
+"c32-64-0b4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Report Title"; ObjectID = "eAj-e5-F64"; */
+"eAj-e5-F64.text" = "Report Title";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kX2-At-KkL"; */
+"kX2-At-KkL.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "rZO-N5-RkG"; */
+"rZO-N5-RkG.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "Login with Email"; ObjectID = "tX7-wd-UWS"; */
+"tX7-wd-UWS.title" = "Login with Email";
+
+/* Class = "UIButton"; configuration.title = "   Login with Email"; ObjectID = "v7P-aB-1D0"; */
+"v7P-aB-1D0.configuration.title" = "   Login with Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "v7P-aB-1D0"; */
+"v7P-aB-1D0.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wm2-4N-ozm"; */
+"wm2-4N-ozm.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "ParKing"; ObjectID = "wsR-9j-r06"; */
+"wsR-9j-r06.text" = "ParKing";
+
+/* Class = "UINavigationItem"; title = "Register new account"; ObjectID = "zHC-vs-Wa2"; */
+"zHC-vs-Wa2.title" = "Register new account";
+
+/* Class = "UILabel"; text = "Alert"; ObjectID = "zN5-2L-ZHc"; */
+"zN5-2L-ZHc.text" = "Alert";
+
+/* Class = "UILabel"; text = "Parking Title"; ObjectID = "zap-3C-3Ep"; */
+"zap-3C-3Ep.text" = "Parking Title";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "ze7-c0-HIt"; */
+"ze7-c0-HIt.placeholder" = "User Name";
+
+/* Class = "UITextField"; placeholder = "Re-type Password"; ObjectID = "zgR-Zh-b8K"; */
+"zgR-Zh-b8K.placeholder" = "Re-type Password";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "zhO-dx-Pv3"; */
+"zhO-dx-Pv3.title" = "About";

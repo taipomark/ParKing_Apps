@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; configuration.title = "     Setting"; ObjectID = "4yj-xG-7Kp"; */
+"4yj-xG-7Kp.configuration.title" = "     設定";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4yj-xG-7Kp"; */
+"4yj-xG-7Kp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "5Yk-ie-QoD"; */
+"5Yk-ie-QoD.text" = "帳號名稱:";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "9vs-uu-vrY"; */
+"9vs-uu-vrY.configuration.title" = "提交";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9vs-uu-vrY"; */
+"9vs-uu-vrY.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Report History"; ObjectID = "I6A-mN-FbP"; */
+"I6A-mN-FbP.title" = "報告記錄";
+
+/* Class = "UINavigationItem"; title = "Edit Profile"; ObjectID = "Kag-sK-yDh"; */
+"Kag-sK-yDh.title" = "修改帳號";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WLf-oQ-lTl"; */
+"WLf-oQ-lTl.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "WSB-pm-vk3"; */
+"WSB-pm-vk3.title" = "設定";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "bCU-cV-3SK"; */
+"bCU-cV-3SK.text" = "用戶名稱";
+
+/* Class = "UIButton"; configuration.title = "     Report History"; ObjectID = "c91-Z0-sSU"; */
+"c91-Z0-sSU.configuration.title" = "     報告記錄";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c91-Z0-sSU"; */
+"c91-Z0-sSU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "daK-uk-gzV"; */
+"daK-uk-gzV.text" = "地址";
+
+/* Class = "UIButton"; configuration.title = "     Profile"; ObjectID = "gaP-VO-dLp"; */
+"gaP-VO-dLp.configuration.title" = "     帳號";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gaP-VO-dLp"; */
+"gaP-VO-dLp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ia1-BW-rEJ"; */
+"ia1-BW-rEJ.text" = "電郵";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "mSa-ru-YD0"; */
+"mSa-ru-YD0.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "s4O-W8-uvJ"; */
+"s4O-W8-uvJ.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "stB-TJ-7KO"; */
+"stB-TJ-7KO.configuration.title" = "取消";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "stB-TJ-7KO"; */
+"stB-TJ-7KO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "tjC-qa-3IV"; */
+"tjC-qa-3IV.text" = "電郵";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ww9-uW-Gl7"; */
+"ww9-uW-Gl7.text" = "日期";

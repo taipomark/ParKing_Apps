@@ -1,0 +1,45 @@
+
+/* Class = "UINavigationItem"; title = "Parking"; ObjectID = "5bw-t3-gFp"; */
+"5bw-t3-gFp.title" = "Parking";
+
+/* Class = "UINavigationItem"; title = "Parking List"; ObjectID = "6za-fb-J7w"; */
+"6za-fb-J7w.title" = "Parking List";
+
+/* Class = "UILabel"; text = "District"; ObjectID = "8iT-cZ-iHC"; */
+"8iT-cZ-iHC.text" = "District";
+
+/* Class = "UILabel"; text = "Vancancy"; ObjectID = "HAb-lu-s1e"; */
+"HAb-lu-s1e.text" = "Vancancy";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Khc-UJ-a6i"; */
+"Khc-UJ-a6i.text" = "Name";
+
+/* Class = "UIButton"; configuration.title = "   Nav"; ObjectID = "QFR-nM-0zN"; */
+"QFR-nM-0zN.configuration.title" = "   Nav";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QFR-nM-0zN"; */
+"QFR-nM-0zN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "Upk-0h-Hof"; */
+"Upk-0h-Hof.text" = "Distance";
+
+/* Class = "UIButton"; configuration.title = "  Reset"; ObjectID = "fFD-n5-ov0"; */
+"fFD-n5-ov0.configuration.title" = "  Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fFD-n5-ov0"; */
+"fFD-n5-ov0.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gt1-VC-xnS"; */
+"gt1-VC-xnS.title" = "Item";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "jRX-Fn-rcm"; */
+"jRX-Fn-rcm.text" = "Duration";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "pGe-bG-5qo"; */
+"pGe-bG-5qo.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "  List"; ObjectID = "zyS-gh-Cqc"; */
+"zyS-gh-Cqc.configuration.title" = "  List";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zyS-gh-Cqc"; */
+"zyS-gh-Cqc.normalTitle" = "Button";

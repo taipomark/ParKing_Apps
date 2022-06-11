@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  ParKing
+
+  Created by Mark Lai on 22/5/2022.
+  
+*/
+
+"Submit" = "Submit";
+"Cancel" = "Cancel";
+"ForgetPassword" = "Forget Password?";
+"LoginError" = "Login Error";
+"ResetError" = "Reset Password Error";
+"ResetOK" = "Reset Password";
+"ResetOKDesc" = "Reset Password Success";
+"BothNotBlank" = "Both fields must not be blank.";
+"ConfirmEmail" = "You haven't confirmed your email address yet. We sent you a confirmation email when you sign up. Please click the verification link in that email. If you need us to send the confirmation email again, please tap Resend Email.";
+"ResendEmail" = "Resend Email";
+"InputError" = "Input Error";
+"ProvideEmail" = "Please provide your email address for password reset.";
+"ResetFollow" = "Password Reset Follow-up";
+"ResetError" = "Password Reset Error";
+"ResetEmail" = "We have just sent you a password reset email. Please check your inbox and follow the instructions to reset your password.";
+"RegisterError" = "Register Error";
+"RegisterNotProvide" = "Please make sure you provide your name, email address and password to complete the registration.";
+"PasswordError" = "Password Error";
+"PasswordNotSame" = "Please make sure Password and Confirm Password are the same.";
+"EmailVerification" = "Email Verification";
+"VerificationSend" = "We've just sent a confirmation email to your email address. Please check your inbox and click the verification link in that email to complete the sign up.";
+"LogoutError" = "Logout Error";
+
+//Parking
+"TapShow" = "tap to show the route";
+"Distance" = "Distance";
+"KM" = "KM";
+"Duration" = "Duration";
+"Minutes" = "Minutes";
+"VacancyNA" = "Vacancy: N/A";
+"VacancyAvailable" = "Vacancy: Available";
+"Vacancy" = "Vacancy:";
+"VacancyOK" = "Vacancy: OK";
+"All" = "All";
+"Islands" = "Islands";
+"Kwai Tsing" = "Kwai Tsing";
+"North" = "North";
+"Sai Kung" = "Sai Kung";
+"Sha Tin" = "Sha Tin";
+"Tai Po" = "Tai Po";
+"Tsuen Wan" = "Tsuen Wan";
+"Tuen Mun" = "Tuen Mun";
+"Yuen Long" = "Yuen Long";
+"Kowloon City" = "Kowloon City";
+"Kwun Tong" = "Kwun Tong";
+"Sham Shui Po" = "Sham Shui Po";
+"Wong Tai Sin" = "Wong Tai Sin";
+"Yau Tsim Mong" = "Yau Tsim Mong";
+"Central and Western" = "Central and Western";
+"Eastern" = "Eastern";
+"Southern" = "Southern";
+"Wan Chai" = "Wan Chai";
+"UnableGPS" = "GPS Problem";
+"Unable" = "GPS Not Enable yet, please wait a while.";
+
+//Alert
+"ReportLocation" = "Report Alert Location";
+"ReportAlert" = "Report Alert";
+"ReportSuccess" = "ReportSuccess";
+"By:" = "By:";
+"Time:" = "Time:";
+"Radius" = "Alert in radius of 500 meters";
+
+//Main
+"Parking" = "Parking";
+"Alert" = "Alert";
+"Report" = "Report";
+"AlertLabel" = " 1.) Map displays fine alert which is reported by users withing same day. \n 2.) Click the marker display the details of the Reported Alert.";
+"ParkingLabel" = " 1.) Map displays all the parking sites of Hong Kong. \n2.) Click the marker display the details of the parking site. \n3.) Click the info Window display the route from your location. \n4.) Click List button to display parking sites in list format.";
+"ReportLabel" = "1.) Map displays your current location. \n2.) Click Submit to submit alert. \n3.) Click on the map to report other alert location.";
+"Email:" = "Email:";
+"Setting" = "Setting";
+"About" = "About";
+"Signout" = "Signout";

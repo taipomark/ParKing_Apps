@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; configuration.title = "     Setting"; ObjectID = "4yj-xG-7Kp"; */
+"4yj-xG-7Kp.configuration.title" = "     Setting";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4yj-xG-7Kp"; */
+"4yj-xG-7Kp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "5Yk-ie-QoD"; */
+"5Yk-ie-QoD.text" = "User Name:";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "9vs-uu-vrY"; */
+"9vs-uu-vrY.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9vs-uu-vrY"; */
+"9vs-uu-vrY.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Report History"; ObjectID = "I6A-mN-FbP"; */
+"I6A-mN-FbP.title" = "Report History";
+
+/* Class = "UINavigationItem"; title = "Edit Profile"; ObjectID = "Kag-sK-yDh"; */
+"Kag-sK-yDh.title" = "Edit Profile";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "WLf-oQ-lTl"; */
+"WLf-oQ-lTl.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "WSB-pm-vk3"; */
+"WSB-pm-vk3.title" = "Setting";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "bCU-cV-3SK"; */
+"bCU-cV-3SK.text" = "User Name";
+
+/* Class = "UIButton"; configuration.title = "     Report History"; ObjectID = "c91-Z0-sSU"; */
+"c91-Z0-sSU.configuration.title" = "     Report History";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c91-Z0-sSU"; */
+"c91-Z0-sSU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "daK-uk-gzV"; */
+"daK-uk-gzV.text" = "Address";
+
+/* Class = "UIButton"; configuration.title = "     Profile"; ObjectID = "gaP-VO-dLp"; */
+"gaP-VO-dLp.configuration.title" = "     Profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gaP-VO-dLp"; */
+"gaP-VO-dLp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ia1-BW-rEJ"; */
+"ia1-BW-rEJ.text" = "Email";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "mSa-ru-YD0"; */
+"mSa-ru-YD0.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "s4O-W8-uvJ"; */
+"s4O-W8-uvJ.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "stB-TJ-7KO"; */
+"stB-TJ-7KO.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "stB-TJ-7KO"; */
+"stB-TJ-7KO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "tjC-qa-3IV"; */
+"tjC-qa-3IV.text" = "Email";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ww9-uW-Gl7"; */
+"ww9-uW-Gl7.text" = "Date";
